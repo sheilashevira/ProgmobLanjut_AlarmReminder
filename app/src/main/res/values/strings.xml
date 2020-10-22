@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name"></string>
+
+    <string name="add_reminder_details">Add Reminder Details</string>
+    <string name="edit_reminder">Edit Reminder</string>
+    <string name="add_reminder"></string>
+    <string name="repeat_off">Repeat Off</string>
+
+    <string name="discard_reminder">Discard Reminder</string>
+    <string name="save_reminder">Save Reminder</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="delete_dialog_msg">Delete this Reminder?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="failed_delete">Error with deleting reminder</string>
+    <string name="success_delete">Reminder deleted</string>
+
+    <string name="failed_insert_reminder">Error with saving reminder</string>
+    <string name="success_insert_reminder">Reminder saved</string>
+
+    <string name="failed_update">Error with updating reminder</string>
+    <string name="success_update">Reminder updated</string>
+
+    <string name="reminder_title">AlarmReminder</string>
+
+
+
+
+
+
+</resources>
